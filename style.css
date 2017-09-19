@@ -1,0 +1,68 @@
+
+#course {
+    background: pink;
+    text-align: center;
+    border-style: double;
+    border-color: darkgrey;
+    border-width: 10px;
+    padding: 20px;
+    margin: 20px;
+    color: aliceblue;
+}
+#hello {
+    background: peachpuff;
+    height: 50%;
+    width: 33%;
+    border-style: double;
+    border-color: darkgrey;
+    border-width: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    float: left;
+    color: aliceblue;
+}
+#goodbye {
+    background: peachpuff;
+    height: 50%;
+    width: 33%;
+    border-style: double;
+    border-color: darkgrey;
+    border-width: 10px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    float: right;
+    color: aliceblue;
+}
+#img {
+    border-style: double;
+    border-color: darkgrey;
+    border-width: 7px;
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    clear: left;
+    clear: right;
+    background: aliceblue;
+}
+#line {
+    border-style: double;
+    border-color: pink;
+    border-width: 15px;
+    padding: 20px;
+    text-align: center;
+    color: aliceblue;
+    margin: 20px;
+    background: darkgrey;
+}
+#link {
+    border-style: double;
+    border-color: pink;
+    border-width: 10px;
+    text-align:center;
+    color:aliceblue;
+    background: darkgrey;
+    padding: 20px;
+    margin: 20px;
+}
